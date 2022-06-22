@@ -1,0 +1,12 @@
+h1, p {
+    text-align: center;
+}
+li:hover{
+    background-color: sandybrown;    
+}
+li:active{
+    color: turquoise;
+}
+ul, ol{
+    list-style: none
+}
